@@ -10,7 +10,7 @@ The project combines document ingestion, vector search, role-based access contro
 
 ## 🎥 Project Demo
 
-[Watch the complete project demonstration](https://drive.google.com/file/d/1xNIeoniK-cLT_rBVa0Nq3VEh2ppmTFa1/view?usp=sharing)
+[Watch the complete project demonstration]()
 
 The video demonstrates the deployed application, employee and admin workflows, document upload and indexing, RAG-based knowledge retrieval, source citations, feedback, analytics, and the operational incident lookup workflow.
 ## 1. Project Overview
