@@ -907,7 +907,7 @@ https://infosys-ai-knowledge-assistant-ifkw.onrender.com
 
 ---
 
-## GROUP MEMBERS
+## GROUP MEMBERS INCLUDING ME
 
 1. Subhansu Bose
 2. Pulkit Narang
