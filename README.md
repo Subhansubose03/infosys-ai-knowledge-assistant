@@ -907,10 +907,10 @@ https://infosys-ai-knowledge-assistant-ifkw.onrender.com
 
 ---
 
-## Authors
+## GROUP MEMBERS
 
-1. Pulkit Narang
-2. Subhansu Bose
+1. Subhansu Bose
+2. Pulkit Narang
 3. Soumyakanta Mishra
 4. Chandra Akash Kiran
 5. Sayan Modak
